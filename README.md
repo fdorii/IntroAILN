@@ -1,3 +1,5 @@
+# Практическое занятие 1. Рабочее окружение
+
 Автор: Липатникова Надежда, группа 251-952
 
 ## Структура папки lab1
@@ -12,3 +14,4 @@
 2. Включить окружение: .venv\Scripts\activate (macOS и Linux: source .venv/bin/activate)
 3. Установить библиотеки: pip install -r requirements.txt
 4. Открыть notebooks/lab1.ipynb в VS Code и выбрать ядро .venv
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fdorii/IntroAILN/blob/main/lab1/notebooks/lab1.ipynb)
